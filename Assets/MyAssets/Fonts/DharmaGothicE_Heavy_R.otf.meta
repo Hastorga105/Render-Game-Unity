@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c43e7603c2a91e74297b6d15ef0f0473
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dharma Gothic E
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e104ae51af60679419b55abf10c11f76, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
